@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    background-color: gray;
+    padding: 10px;
+    border: 1px solid black;
+    position: relative;
+}
+
+.title {
+    text-align: center;
+    bottom: 10px;
+    left: 10px;
+    float: right;
+    clear: left;
+    width: 100px;
+    height: 40px;
+}
+
+.title1 {
+    color: azure;
+    border-color: black;
+    background-color: #32292F;
+}
+
+.title2 {
+    color: azure;
+    border-color: black;
+    background-color: #575366;
+}
+
+.title3 {
+    color: azure;
+    border-color: black;
+    background-color: #6E7DAB;
+}
